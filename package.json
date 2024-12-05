@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "/Personal-Website",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
@@ -44,8 +45,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://lixenon.github.io/Personal-Website"
+    ]
   }
   
 }

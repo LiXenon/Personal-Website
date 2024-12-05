@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb34be5b.css",
-    "main.js": "/static/js/main.fbb84190.js",
-    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
-    "static/media/news-hunter.jpg": "/static/media/news-hunter.ac5a0e8d370f003566c9.jpg",
-    "static/media/Iportfolio.jpg": "/static/media/Iportfolio.c90acdba16fb14b8ef49.jpg",
-    "static/media/CO2 Emission Impact on Climate.jpg": "/static/media/CO2 Emission Impact on Climate.50e16b78570afc6d51fa.jpg",
-    "static/media/CV.pdf": "/static/media/CV.a434499c06877280d169.pdf",
-    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Developing.jpg": "/static/media/Developing.0037b7457bc07b03b55a.jpg",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/Multiple-Agent.jpg": "/static/media/Multiple-Agent.88e1b48ea0406ecad5a3.jpg",
-    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/index.html",
-    "main.bb34be5b.css.map": "/static/css/main.bb34be5b.css.map",
-    "main.fbb84190.js.map": "/static/js/main.fbb84190.js.map",
-    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+    "main.css": "/Personal-Website/static/css/main.6497f16e.css",
+    "main.js": "/Personal-Website/static/js/main.3ae30f77.js",
+    "static/js/453.ace21015.chunk.js": "/Personal-Website/static/js/453.ace21015.chunk.js",
+    "static/media/news-hunter.jpg": "/Personal-Website/static/media/news-hunter.ac5a0e8d370f003566c9.jpg",
+    "static/media/Iportfolio.jpg": "/Personal-Website/static/media/Iportfolio.c90acdba16fb14b8ef49.jpg",
+    "static/media/CO2 Emission Impact on Climate.jpg": "/Personal-Website/static/media/CO2 Emission Impact on Climate.50e16b78570afc6d51fa.jpg",
+    "static/media/CV.pdf": "/Personal-Website/static/media/CV.a434499c06877280d169.pdf",
+    "static/media/home-main.svg": "/Personal-Website/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Personal-Website/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Developing.jpg": "/Personal-Website/static/media/Developing.0037b7457bc07b03b55a.jpg",
+    "static/media/home-bg.jpg": "/Personal-Website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Multiple-Agent.jpg": "/Personal-Website/static/media/Multiple-Agent.88e1b48ea0406ecad5a3.jpg",
+    "static/media/avatar.svg": "/Personal-Website/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Personal-Website/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Personal-Website/index.html",
+    "main.6497f16e.css.map": "/Personal-Website/static/css/main.6497f16e.css.map",
+    "main.3ae30f77.js.map": "/Personal-Website/static/js/main.3ae30f77.js.map",
+    "453.ace21015.chunk.js.map": "/Personal-Website/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb34be5b.css",
-    "static/js/main.fbb84190.js"
+    "static/css/main.6497f16e.css",
+    "static/js/main.3ae30f77.js"
   ]
 }
