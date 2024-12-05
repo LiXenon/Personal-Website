@@ -27,8 +27,7 @@ function Projects() {
               isBlog={false}
               title="News Hunter"
               description="An AI featured news website. We have all kinds of the latest AI news to present. Users can like, save or comment on any news they like. The AI chat bot can help users to find the news they want by dialoguing."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="http://news-hunter.site"
             />
           </Col>
 
