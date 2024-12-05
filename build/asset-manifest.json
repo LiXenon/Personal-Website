@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.bb34be5b.css",
-    "main.js": "/static/js/main.30d5cb0f.js",
+    "main.js": "/static/js/main.fbb84190.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/news-hunter.jpg": "/static/media/news-hunter.ac5a0e8d370f003566c9.jpg",
     "static/media/Iportfolio.jpg": "/static/media/Iportfolio.c90acdba16fb14b8ef49.jpg",
     "static/media/CO2 Emission Impact on Climate.jpg": "/static/media/CO2 Emission Impact on Climate.50e16b78570afc6d51fa.jpg",
-    "static/media/CV.pdf": "/static/media/CV.895156792c28a111e7fd.pdf",
+    "static/media/CV.pdf": "/static/media/CV.a434499c06877280d169.pdf",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Developing.jpg": "/static/media/Developing.0037b7457bc07b03b55a.jpg",
@@ -16,11 +16,11 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.bb34be5b.css.map": "/static/css/main.bb34be5b.css.map",
-    "main.30d5cb0f.js.map": "/static/js/main.30d5cb0f.js.map",
+    "main.fbb84190.js.map": "/static/js/main.fbb84190.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb34be5b.css",
-    "static/js/main.30d5cb0f.js"
+    "static/js/main.fbb84190.js"
   ]
 }
